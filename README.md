@@ -4,7 +4,11 @@ Get real-time weather updates in a clean, responsive interface.
 
 ## 🔗 Live Demo
 
-[👉 Visit DailySky](https://daily-sky.netlify.app/)
+[👉 Visit DailySky] (https://daily-sky.netlify.app/)
+
+## 🎥 Demo Video
+
+📽️ [Click here to watch the demo](images/HomePageVideo.mp4)
 
 ## 📸 Screenshots
 
@@ -43,5 +47,4 @@ Here are the tools and resources used in this project:
 - 🔗 [OpenWeatherMap API](https://openweathermap.org/api) – Provides real-time weather data.
 - 🔗 [particles.js](https://vincentgarreau.com/particles.js/) – Adds visual snow & interactive grab effects.
 - 🔗 [Netlify](https://www.netlify.com/) – Used for free hosting and live deployment.
-- 🔗 [Font Awesome](https://fontawesome.com/) – Used for weather-related icons.
-- 🔗 [Unsplash](https://unsplash.com/) – (Optional) for high-quality background images.
+- 🔗 [Boxioncs](https://boxicons.com/) – Used for search, map and weather related icons.
