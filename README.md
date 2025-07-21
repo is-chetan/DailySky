@@ -8,8 +8,11 @@ Get real-time weather updates in a clean, responsive interface.
 
 ## 📸 Screenshots
 
-![Weather App Screenshot](./screenshots/home.png)
-*(Add your screenshot inside a `screenshots/` folder in your repo)*
+### Homepage View
+
+![App Screenshot](images/HomePage.png)
+![App Screenshot](images/HomePage2.png)
+
 
 ## ✨ Features
 
@@ -30,7 +33,7 @@ Get real-time weather updates in a clean, responsive interface.
 ## 📝 Notes
 - 🌐 The app supports weather search by city name or ZIP code.
 - 🌡️ Temperature is shown in Celsius
-- 🧊 Particle effects are loaded dynamically — ensure your internet connection is active.
+- 🧊 Particle effects are loaded dynamically, ensure your internet connection is active.
 - 📵 The UI loads offline but requires internet for API and particle JSON.
 
 ## 📚 Resources
