@@ -8,7 +8,8 @@ Get real-time weather updates in a clean, responsive interface.
 
 ## 🎥 Demo Video
 
-📽️ [Click here to watch the demo](images/HomePageVideo.mp4)
+<video src="images/HomePageVideo.mp4" controls></video>
+
 
 ## 📸 Screenshots
 
@@ -47,4 +48,4 @@ Here are the tools and resources used in this project:
 - 🔗 [OpenWeatherMap API](https://openweathermap.org/api) – Provides real-time weather data.
 - 🔗 [particles.js](https://vincentgarreau.com/particles.js/) – Adds visual snow & interactive grab effects.
 - 🔗 [Netlify](https://www.netlify.com/) – Used for free hosting and live deployment.
-- 🔗 [Boxioncs](https://boxicons.com/) – Used for search, map and weather related icons.
+- 🔗 [Boxicons](https://boxicons.com/) – Used for search, map and weather related icons.
