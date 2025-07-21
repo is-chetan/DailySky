@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DailySky</title>
+    <link rel="stylesheet" href="style.css">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://cdn.boxicons.com/fonts/basic/boxicons.min.css' rel='stylesheet'>
+    <link rel="icon" href="images/favicon.png" type="image/png">
+</head>
+<body>
+
+    <div id="particles-js"></div>
+
+
+
+    <div class="container">
+        <div class="search-box">
+            <i class='bxr  bx-location'  ></i> 
+            <input type="text" placeholder="Search your Address, City">
+            <button class="bxr bx-search"></button>
+        </div>
+
+        <div class="city-hide">city hide</div>
+
+        <div class="weather-box">
+            <div class="box">
+                <div class="info-weather">
+                    <div class="weather">
+                        <img src="images/cloud.png">
+                        <p class="temperature">0<span>°C</span></p>
+                        <p class="description">Broken Clouds</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="weather-details">
+            <div class="humidity">
+                <i class='bxr  bx-water'  ></i> 
+                <div class="text">
+                    <div class="info-humidity">
+                        <span>0%</span>
+                    </div>
+                    <p>Humidity</p>
+                </div>
+            </div>
+
+            <div class="wind">
+                <i class='bxr  bx-wind'  ></i> 
+                <div class="text">
+                    <div class="info-wind">
+                        <span>0km/hr</span>
+                    </div>
+                    <p>Wind Speed</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="not-found">
+            <div class="box">
+                <img src="images/404.png">
+                <p>Oops! Location not found!</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="credit">Made by Chetan</div>
+
+    <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+    <script>particlesJS.load('particles-js', 'particles.json', function() {
+                 console.log('particles.js config loaded');});
+    </script>
+    <script src="script.js"></script>
+</body>
+</html>
